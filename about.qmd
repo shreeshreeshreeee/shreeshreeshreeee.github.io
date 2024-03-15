@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+### Identified Dataset
+
+The identified dataset is from an online source, Kaggle, which has repackaged the data from a newer compilation put together by the [Berkeley Earth](http://berkeleyearth.org/about/), which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives.
