@@ -1,0 +1,14 @@
+{
+  "hash": "af4ce1a6567b03747c125742b14b0676",
+  "result": {
+    "markdown": "---\ntitle: \"shreeshreeshreeee.github.io\"\n---\n\n\n### Self-Introduction\n\nHi, I am Shreekari! I am in Year 3, and my major is Political Science with a second major in Communications and New Media.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(\"/Users/shreekarimaruvada/Desktop/picture.jpeg\")\n```\n\n::: {.cell-output-display}\n![this is me](../../../picture.jpeg){width=800px height=350px}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
