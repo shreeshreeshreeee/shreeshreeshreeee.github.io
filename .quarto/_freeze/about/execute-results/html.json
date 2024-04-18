@@ -1,7 +1,8 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "6956e3547964b7f6f43bdc1ae48aa422",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About Me\"\nformat: html\neditor: visual\n---\n\n\n## Self-Introduction\n\nHi! I am Shreekari{style=\"color: #ccccff;\"}, I am a Year 3 Political Science student, with a second major in Communications and New Media.\n\n## My Interests\n\nI am a <b>HUGE</b> Potterhead (as evidenced by the picture below), and I love to read. More importantly, I love to tell stories, which is why NM2207 as a course stood out to me so much! :)\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](picture.jpeg){width=50% height=50%}\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

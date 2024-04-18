@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Reflections",
     "section": "",
-    "text": "Hi! I am Shreekari{style=“color: #ccccff;”}, I am a Year 3 Political Science student, with a second major in Communications and New Media."
+    "text": "Reflecting on my R experience, it has been an uphill battle. I am not someone who has been able to understand coding, even though I love learning new languages and have been learning languages beyond my mother tongue. I think my experience has mostly been difficult as it took me many hours (and is still taking me many hours) to understand even the most basic of concepts that have been taught during lectures and to apply them to my data-story. However, I do think that this journey with R has challenged me to explore material beyond my comfort zone and learn something new that can seemingly be beneficial in the future.\nThe main thing I learnt in NM2207 was how to use data to support your story. I have always been a storyteller at heart, but finding and using data visualisations to support whatever story that I have to tell is something that NM2207 taught me. Given that I study Political Science, analysing data is important for processes such as policy-making or even advertising of policies. Hence, I can adapt this idea of data visualisation and telling a story through data using R, to my future career in this manner."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi :)",
+    "objectID": "reflections.html#reflecting-on-nm2207",
+    "href": "reflections.html#reflecting-on-nm2207",
+    "title": "Reflections",
     "section": "",
-    "text": "Welcome to my website for NM2207! Let’s talk about Climate Change :)"
-  },
-  {
-    "objectID": "shreeshreeshreeee.github.io/about.html",
-    "href": "shreeshreeshreeee.github.io/about.html",
-    "title": "About",
-    "section": "",
-    "text": "Identified Dataset\nThe identified dataset is from an online source, Kaggle, which has repackaged the data from a newer compilation put together by the Berkeley Earth, which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives."
-  },
-  {
-    "objectID": "shreeshreeshreeee.github.io/index.html",
-    "href": "shreeshreeshreeee.github.io/index.html",
-    "title": "shreeshreeshreeee.github.io",
-    "section": "",
-    "text": "Self-Introduction\nHi, I am Shreekari, a Year 3 Political Science and Communications and New Media major! Fun Fact: it took me hours to figure GitHub out 🫠"
-  },
-  {
-    "objectID": "about.html#self-introduction",
-    "href": "about.html#self-introduction",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi! I am Shreekari{style=“color: #ccccff;”}, I am a Year 3 Political Science student, with a second major in Communications and New Media."
-  },
-  {
-    "objectID": "about.html#my-interests",
-    "href": "about.html#my-interests",
-    "title": "About Me",
-    "section": "My Interests",
-    "text": "My Interests\nI am a HUGE Potterhead (as evidenced by the picture below), and I love to read. More importantly, I love to tell stories, which is why NM2207 as a course stood out to me so much! :)"
+    "text": "Reflecting on my R experience, it has been an uphill battle. I am not someone who has been able to understand coding, even though I love learning new languages and have been learning languages beyond my mother tongue. I think my experience has mostly been difficult as it took me many hours (and is still taking me many hours) to understand even the most basic of concepts that have been taught during lectures and to apply them to my data-story. However, I do think that this journey with R has challenged me to explore material beyond my comfort zone and learn something new that can seemingly be beneficial in the future.\nThe main thing I learnt in NM2207 was how to use data to support your story. I have always been a storyteller at heart, but finding and using data visualisations to support whatever story that I have to tell is something that NM2207 taught me. Given that I study Political Science, analysing data is important for processes such as policy-making or even advertising of policies. Hence, I can adapt this idea of data visualisation and telling a story through data using R, to my future career in this manner."
   },
   {
     "objectID": "data story.html",
@@ -47,27 +19,6 @@
     "title": "data story.qmd",
     "section": "",
     "text": "Climate change poses a significant threat to ecosystems, economies, and human societies, making it one of the most urgent issues of our day. Land temperature is a key metric that stands out among the many indicators of climate change. It is crucial to comprehend how land temperature and climate change are related in order to fully appreciate the magnitude of this worldwide phenomenon."
-  },
-  {
-    "objectID": "data story.html#quarto",
-    "href": "data story.html#quarto",
-    "title": "data story.qmd",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "data story.html#running-code",
-    "href": "data story.html#running-code",
-    "title": "data story.qmd",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Welcome",
-    "section": "",
-    "text": "This is a website for"
   },
   {
     "objectID": "data story.html#introduction",
@@ -84,25 +35,18 @@
     "text": "Land Temperature and Climate Change\nOver the past century, the land surface temperature of Earth has been gradually rising. The rate at which land temperatures have been rising is concerning, ranging from the Arctic’s frozen tundra to Africa’s sun-drenched deserts. Human activity is the main cause of this temperature rise, especially the burning of fossil fuels and deforestation, which release greenhouse gases into the atmosphere that trap heat and cause global warming. The identified dataset on land temperatures is from an online source, Kaggle, which has repackaged the data from a newer compilation put together by the [Berkeley Earth](http://berkeleyearth.org/about/), which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives."
   },
   {
-    "objectID": "index.html#div-styletext-aligncenter",
-    "href": "index.html#div-styletext-aligncenter",
-    "title": "Welcome",
-    "section": "",
-    "text": "Your centered text goes here. &lt;/div&gt;Hi!"
-  },
-  {
     "objectID": "analysis.html",
     "href": "analysis.html",
     "title": "Analysis of Data",
     "section": "",
-    "text": "The below graph shows the global land temperature trend from 2000 to 2015, in the month of July.\n\n\n\n\n\nHere we can see that, apart from the one anomaly in 2004, the land temperature was the lowest in 2000. Every subsequent year has been higher than 2000, with 2011 having the highest land temperature."
+    "text": "The below graph shows the global land temperature trend from 2000 to 2015, in the month of July.\n\n\n\n\n\n\n\n\n\nHere we can see that, apart from the one anomaly in 2004, the land temperature was the lowest in 2000. Every subsequent year has been higher than 2000, with 2011 having the highest land temperature."
   },
   {
     "objectID": "analysis.html#visualising-overall-land-temperature-trends",
     "href": "analysis.html#visualising-overall-land-temperature-trends",
     "title": "Analysis of Data",
     "section": "",
-    "text": "The below graph shows the global land temperature trend from 2000 to 2015, in the month of July.\n\n\n\n\n\nHere we can see that, apart from the one anomaly in 2004, the land temperature was the lowest in 2000. Every subsequent year has been higher than 2000, with 2011 having the highest land temperature."
+    "text": "The below graph shows the global land temperature trend from 2000 to 2015, in the month of July.\n\n\n\n\n\n\n\n\n\nHere we can see that, apart from the one anomaly in 2004, the land temperature was the lowest in 2000. Every subsequent year has been higher than 2000, with 2011 having the highest land temperature."
   },
   {
     "objectID": "analysis.html#land-temperature-trends--united-states-of-america",
@@ -110,5 +54,61 @@
     "title": "Analysis of Data",
     "section": "Land Temperature Trends- United States of America",
     "text": "Land Temperature Trends- United States of America\nThe United States is one of the largest contributers to climate change, due to its high reliance on fossil fuels, . Lets analyse its land temperature from 2000 to 2013."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I am Shreekari{style=“color: #ccccff;”}, I am a Year 3 Political Science student, with a second major in Communications and New Media."
+  },
+  {
+    "objectID": "about.html#self-introduction",
+    "href": "about.html#self-introduction",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I am Shreekari{style=“color: #ccccff;”}, I am a Year 3 Political Science student, with a second major in Communications and New Media."
+  },
+  {
+    "objectID": "about.html#my-interests",
+    "href": "about.html#my-interests",
+    "title": "About Me",
+    "section": "My Interests",
+    "text": "My Interests\nI am a HUGE Potterhead (as evidenced by the picture below), and I love to read. More importantly, I love to tell stories, which is why NM2207 as a course stood out to me so much! :)"
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "The data analysed does have its limitations, in the sense that the data cuts off at the year 2013, and the years from 2000 to 2013 were said to be the years when the world experienced cooling, rather than warming.\nBut the data also shows an overall increase in the land temperature, based on which we can deduce that- if in the cooling period of the Earth, there was already seen to be an increase in land temperature, we can only imagine how much the land temperature has increased post 2013, due to the over-reliance and excessive use of coal, oil and gas."
+  },
+  {
+    "objectID": "conclusion.html#limitations",
+    "href": "conclusion.html#limitations",
+    "title": "Conclusion",
+    "section": "",
+    "text": "The data analysed does have its limitations, in the sense that the data cuts off at the year 2013, and the years from 2000 to 2013 were said to be the years when the world experienced cooling, rather than warming.\nBut the data also shows an overall increase in the land temperature, based on which we can deduce that- if in the cooling period of the Earth, there was already seen to be an increase in land temperature, we can only imagine how much the land temperature has increased post 2013, due to the over-reliance and excessive use of coal, oil and gas."
+  },
+  {
+    "objectID": "conclusion.html#conclusion",
+    "href": "conclusion.html#conclusion",
+    "title": "Conclusion",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn conclusion, climate change poses a complex and pressing issue that necessitates quick response. Its profound effects on economies, societies, and ecosystems highlight how important it is for everyone to work together to reduce greenhouse gas emissions, prepare for climate change, and promote sustainability for both the present and the future."
+  },
+  {
+    "objectID": "conclusion.html#citations",
+    "href": "conclusion.html#citations",
+    "title": "Conclusion",
+    "section": "Citations",
+    "text": "Citations\n“Global Impact of Climate Change,” n.d. https://www.nccs.gov.sg/about-climate-change/global-impact-of-climate-change/.\nModak, Angshuman, and Thorsten Mauritsen. “The 2000–2012 Global Warming Hiatus More Likely With a Low Climate Sensitivity.” Geophysical Research Letters 48, no. 9 (May 7, 2021). https://doi.org/10.1029/2020gl091779.\nVanessa. “Which Countries Are the World’s Biggest Carbon Polluters?” ClimateTrade, February 29, 2024. https://climatetrade.com/which-countries-are-the-worlds-biggest-carbon-polluters/."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi :)",
+    "section": "",
+    "text": "Welcome to my website for NM2207! Let’s talk about Climate Change :)"
   }
 ]

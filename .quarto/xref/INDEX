@@ -10,5 +10,17 @@
   },
   "shreeshreeshreeee.github.io/about.qmd": {
     "about.html": "f96f0ec6"
+  },
+  "analysis.qmd": {
+    "analysis.html": "544a75a6"
+  },
+  "conclusion.qmd": {
+    "conclusion.html": "98625fdb"
+  },
+  "data story.qmd": {
+    "data story.html": "73e0e0f0"
+  },
+  "reflections.qmd": {
+    "reflections.html": "e1cd717a"
   }
 }

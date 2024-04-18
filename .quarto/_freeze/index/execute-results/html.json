@@ -1,7 +1,8 @@
 {
-  "hash": "af4ce1a6567b03747c125742b14b0676",
+  "hash": "287b50b9ef659f0b45674f14f7c4c352",
   "result": {
-    "markdown": "---\ntitle: \"shreeshreeshreeee.github.io\"\n---\n\n\n### Self-Introduction\n\nHi, I am Shreekari! I am in Year 3, and my major is Political Science with a second major in Communications and New Media.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(\"/Users/shreekarimaruvada/Desktop/picture.jpeg\")\n```\n\n::: {.cell-output-display}\n![this is me](../../../picture.jpeg){width=800px height=350px}\n:::\n:::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Hi :)\"\nformat: html\neditor: visual\n---\n\n\nWelcome to my website for NM2207! Let's talk about Climate Change :)\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](Climate Change Images - Free Download on Freepik.jpeg){width=50% height=50%}\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
