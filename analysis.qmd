@@ -36,3 +36,12 @@ ggplot(data = us_land_temperature, aes(x = dt, y = AverageTemperature)) +
   labs(x = "Date", y = "Average Land Temperature", title = "Land Temperature in the States") +
    ylim(0, 25)
 ```
+
+## Analysing Different Countries
+
+Out of all the countries, the United States, India and China have the highest carbon emissions, due to which they can be said to be contributing to climate change the most. The below plot can be used to explore the increase/decrease in land temperature for the three countries.  
+
+<iframe height="400" width="100%" frameborder="no" src="https://shreeshreeshreeee.shinyapps.io/MyShinyApp/"></iframe>  
+
+All in all, it can be seen that there is a general increase in the land temperature in these three countries, which can be explained through their high carbon emissions.
+
