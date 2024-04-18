@@ -1,0 +1,13 @@
+---
+title: "data story.qmd"
+format: html
+editor: visual
+---
+
+## Introduction
+
+Climate change poses a significant threat to ecosystems, economies, and human societies, making it one of the most urgent issues of our day. Land temperature is a key metric that stands out among the many indicators of climate change. It is crucial to comprehend how land temperature and climate change are related in order to fully appreciate the magnitude of this worldwide phenomenon.
+
+## Land Temperature and Climate Change
+
+Over the past century, the land surface temperature of Earth has been gradually rising. The rate at which land temperatures have been rising is concerning, ranging from the Arctic's frozen tundra to Africa's sun-drenched deserts. Human activity is the main cause of this temperature rise, especially the burning of fossil fuels and deforestation, which release greenhouse gases into the atmosphere that trap heat and cause global warming. The identified dataset on land temperatures is from an online source, Kaggle, which has repackaged the data from a newer compilation put together by the \[Berkeley Earth\](http://berkeleyearth.org/about/), which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives.

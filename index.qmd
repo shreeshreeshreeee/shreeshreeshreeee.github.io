@@ -1,7 +1,12 @@
 ---
-title: "shreeshreeshreeee.github.io"
+title: "Hi :)"
+format: html
+editor: visual
 ---
 
-### Self-Introduction
+Welcome to my website for NM2207! Let's talk about Climate Change :)
 
-Hi, I am Shreekari! I am in Year 3, and my major is Political Science with a second major in Communications and New Media.
+```{r, echo= FALSE, out.height= "50%",out.width= "50%"}
+knitr::include_graphics("Climate Change Images - Free Download on Freepik.jpeg")
+
+```

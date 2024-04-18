@@ -1,0 +1,22 @@
+---
+title: "Reflections"
+format: html
+editor: visual
+---
+
+## Reflecting on NM2207
+
+Reflecting on my R experience, it has been an uphill battle. I am not someone who has been
+able to understand coding, even though I love learning new languages and have been learning
+languages beyond my mother tongue. I think my experience has mostly been difficult as it
+took me many hours (and is still taking me many hours) to understand even the most basic of
+concepts that have been taught during lectures and to apply them to my data-story. However,
+I do think that this journey with R has challenged me to explore material beyond my comfort
+zone and learn something new that can seemingly be beneficial in the future.
+
+The main thing I learnt in NM2207 was how to use data to support your story. I have always
+been a storyteller at heart, but finding and using data visualisations to support whatever story
+that I have to tell is something that NM2207 taught me. Given that I study Political Science,
+analysing data is important for processes such as policy-making or even advertising of
+policies. Hence, I can adapt this idea of data visualisation and telling a story through data
+using R, to my future career in this manner.

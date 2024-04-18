@@ -1,11 +1,17 @@
 ---
-title: "About"
+title: "About Me"
+format: html
+editor: visual
 ---
 
-### Identified Dataset
+## Self-Introduction
 
-The identified dataset is from an online source, Kaggle, which has repackaged the data from a newer compilation put together by the [Berkeley Earth](http://berkeleyearth.org/about/), which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives.
+Hi! I am Shreekari{style="color: #ccccff;"}, I am a Year 3 Political Science student, with a second major in Communications and New Media.
 
-<iframe height="400" width="100%" frameborder="no" src="https://shreeshreeshreeee.shinyapps.io/MyShinyApp/">
+## My Interests
 
-</iframe>
+I am a <b>HUGE</b> Potterhead (as evidenced by the picture below), and I love to read. More importantly, I love to tell stories, which is why NM2207 as a course stood out to me so much! :)
+
+```{r, echo= FALSE, out.height= "50%",out.width= "50%"}
+knitr::include_graphics("picture.jpeg")
+```

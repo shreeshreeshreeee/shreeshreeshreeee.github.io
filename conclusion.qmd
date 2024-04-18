@@ -1,0 +1,23 @@
+---
+title: "Conclusion"
+format: html
+editor: visual
+---
+
+## Limitations
+
+The data analysed does have its limitations, in the sense that the data cuts off at the year 2013, and the years from 2000 to 2013 were said to be the years when the world experienced cooling, rather than warming.
+
+But the data also shows an overall increase in the land temperature, based on which we can deduce that- if in the cooling period of the Earth, there was already seen to be an increase in land temperature, we can only imagine how much the land temperature has increased post 2013, due to the over-reliance and excessive use of coal, oil and gas.
+
+## Conclusion
+
+In conclusion, climate change poses a complex and pressing issue that necessitates quick response. Its profound effects on economies, societies, and ecosystems highlight how important it is for everyone to work together to reduce greenhouse gas emissions, prepare for climate change, and promote sustainability for both the present and the future.
+
+## Citations
+
+“Global Impact of Climate Change,” n.d. https://www.nccs.gov.sg/about-climate-change/global-impact-of-climate-change/.
+
+Modak, Angshuman, and Thorsten Mauritsen. “The 2000–2012 Global Warming Hiatus More Likely With a Low Climate Sensitivity.” *Geophysical Research Letters* 48, no. 9 (May 7, 2021). https://doi.org/10.1029/2020gl091779.
+
+Vanessa. “Which Countries Are the World’s Biggest Carbon Polluters?” ClimateTrade, February 29, 2024. https://climatetrade.com/which-countries-are-the-worlds-biggest-carbon-polluters/.

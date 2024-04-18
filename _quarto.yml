@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "shreeshreeshreeee.github.io"
+  title: "Shreekari Maruvada"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: data story.qmd
+        text: Data Story
+      - href: analysis.qmd
+        text: Analysis of Data
+      - href: conclusion.qmd
+        text: Conclusion
+      - href: reflections.qmd
+        text: Reflections
 
 format:
   html:

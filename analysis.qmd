@@ -1,0 +1,38 @@
+---
+title: "Analysis of Data"
+format: html
+editor: visual
+---
+
+## Visualising Overall Land Temperature Trends
+
+The below graph shows the global land temperature trend from 2000 to 2015, in the month of July.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+ccdata <- read.csv("GlobalTemperatures.csv")
+land_temperature_df <- ccdata %>%
+  select(dt, LandAverageTemperature)
+
+ggplot(data = land_temperature_df, aes(x = dt, y = LandAverageTemperature)) +
+  geom_line(group=1, color="#800080") +
+  geom_point(color = "#800080") +
+  labs(x = "Date", y = "Average Land Temperature", title = "Global Land Temperature")
+```
+
+Here we can see that, apart from the one anomaly in 2004, the land temperature was the lowest in 2000. Every subsequent year has been higher than 2000, with 2011 having the highest land temperature.
+
+## Land Temperature Trends- United States of America
+
+The United States is one of the largest contributers to climate change, due to its high reliance on fossil fuels, . Lets analyse its land temperature from 2000 to 2013.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+ccdata2 <- read.csv("GlobalLandTemperaturesByCountry.csv")
+us_land_temperature <- ccdata2 %>% select (dt, AverageTemperature)
+
+ggplot(data = us_land_temperature, aes(x = dt, y = AverageTemperature)) +
+   geom_bar(stat = "identity", fill = "#ffcccc") +
+  labs(x = "Date", y = "Average Land Temperature", title = "Land Temperature in the States") +
+   ylim(0, 25)
+```
